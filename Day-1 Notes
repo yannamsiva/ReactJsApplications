@@ -1,0 +1,133 @@
+
+FrameWork  :
+
+Provides a complete solution and  the structure and flow of an applicatin
+
+Library : Library offers specific functionalities or tools that can be used with in application
+
+
+once we use have a contorl on development process.
+
+What is React Js ?
+
+React js is declarative ,efficiet and flexible javascript library for building reusable Ui components
+
+It s an open-source ,Component based front end library developed and maintained by FaceBook And later used in its products like Whats App ad Instagram.
+
+Why we use React Js?
+
+To develop User Interface(UI) ,It improves performance of he application, it uses Virtual Dom(JavaScript Object)
+
+
+React Js was created by Jordan Walke.
+
+Most of the WebSites are built Using MVC(Model View Controller)
+
+React is the 'v' which stands for view(Presentation layer)
+
+
+React Js application is made up of Multiple Components ,each component responsible for small, reusable piece of html code . 
+
+Components can be nested with other components to allow Complex applications to be built of simple building blocks.
+
+React Limtations ?
+---------------------
+
+Covers only the view layer of the application.Hence we still need to choose other tehcnlogies
+to get complete tooling set for Development
+
+React Js Features
+------------------
+->JSX
+->Components
+--> One-way Data Binding
+--> Virtual Dom
+--> Simplicity
+---> Performance
+
+
+Set Up
+-----------
+1) Install Node Js
+https://nodejs.org/en
+
+2)  Required NPm and NPX
+
+> node -v
+>  npm -v
+> npx -v
+
+
+How many ways to create React Js Application ?
+
+There are many ways to create React Js application but we can focus 3 Different approaches
+CDN Links
+npm(Node Package Manager)
+npx(Node Package eXmplorer)
+
+
+Develop First React Js Application
+=====================================
+
+Step 1 : Set up your Development Environmnet
+
+Node.js  and Npm(Node PackageManager) installed on your system.
+Step 2: Create A New React Js Project
+
+npx create-react-app <applicationname>
+
+eg : npx create-react-app firstapp
+
+Step 3: Navigate to the Project Directory
+
+After the project is created ,navigate to the project directory using the following command
+
+cd firstapp
+
+
+step 4 : Staart the development Server
+
+Once your are inside the project Directory Start development server by running the command
+
+npm start
+
+
+This command will start th development server and open your application in a web browser at
+http: localhost:3000
+
+Step 5:
+Explore the Project Structure
+
+The project structre iscreated by create-react-app and contains various files and folders
+The main code for your React Application will be in the src folder
+
+open the Project in your prefered coe editor and explore the files
+
+Step 6: Make changes and see live updates
+
+As you make changes to your code files(e.g., in src/App.js)
+The development server will automatically update the application in the browser.
+you can experiment with modify the defult code in src/App.js to see the live updates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
